@@ -18,8 +18,8 @@ size_t binary_tree_depth(const binary_tree_t *tree)
 	return (i);
 }
 /**
- * Function that measures the depth of a node
- *              in a binary tree with a recursive way
+ * size_t binary_tree_depth - function that measures the depth of a node
+ * in a binary tree with a recursive way
  * size_t binary_tree_depth(const binary_tree_t *tree)
  * {
  * int depth = 0;
